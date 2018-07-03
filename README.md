@@ -637,6 +637,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Vivek Vaidya https://vivekvaidya.me/
 - Wasim Thabraze http://thabraze.me
 - Will Field-Thompson http://willft.io
+- William Chiu https://chilly.blue
 - William Cockburn http://syrexide.com
 - William Huang http://www.hellowilliam.com
 - William Liu http://williamliu.me
